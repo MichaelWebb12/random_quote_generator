@@ -27,7 +27,7 @@ function App() {
  }
   useEffect(()=>{
     famousQuote()
-    
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   },[])
   
    
